@@ -7,6 +7,7 @@ import ValueBox from '../common/widget/valueBox'
 import Row from '../common/layout/row'
 
 const BASE_URL = 'http://localhost:3003/api'
+
 export default class Dashboard2 extends Component {
 
     constructor(props) {
